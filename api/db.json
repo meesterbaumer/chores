@@ -1,0 +1,53 @@
+{
+  "familyMembers": [
+    {
+      "id": 1,
+      "name": "Michael"
+    },
+    {
+      "id": 2,
+      "name": "Courtney"
+    },
+    {
+      "id": 3,
+      "name": "Ella"
+    },
+    {
+      "id": 4,
+      "name": "Ben"
+    }
+  ],
+  "chores": [
+    {
+      "id": 1,
+      "chore": "Feed the Dogs"
+    },
+    {
+      "id": 2,
+      "chore": "Feed the Cat"
+    },
+    {
+      "id": 3,
+      "chore": "Take out the trash"
+    },
+    {
+      "id": 4,
+      "chore": "Clean the toilet"
+    },
+    {
+      "id": 5,
+      "chore": "Do the laundry"
+    },
+    {
+      "id": 6,
+      "chore": "Empty the dishwasher"
+    }
+  ],
+  "familyChores": [
+    {
+      "id": 1,
+      "choreId": 4,
+      "familyMemberId": 3 
+    }
+  ]
+}
