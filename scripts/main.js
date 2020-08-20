@@ -1,1 +1,3 @@
-console.log("hello")
+import { FamilyList } from "./FamilyChoreList.js";
+
+FamilyList()
